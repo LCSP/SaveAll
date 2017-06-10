@@ -1,0 +1,10 @@
+G:\BasicProyects\SaveAll\SaveAll\bin\Debug\SaveAll.exe
+G:\BasicProyects\SaveAll\SaveAll\bin\Debug\SaveAll.pdb
+G:\BasicProyects\SaveAll\SaveAll\bin\Debug\SaveAll.xml
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.Resources.resources
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.vbproj.GenerateResource.Cache
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.exe
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.xml
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.pdb
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.Main_Form.resources
+G:\BasicProyects\SaveAll\SaveAll\obj\x86\Debug\SaveAll.intro.resources

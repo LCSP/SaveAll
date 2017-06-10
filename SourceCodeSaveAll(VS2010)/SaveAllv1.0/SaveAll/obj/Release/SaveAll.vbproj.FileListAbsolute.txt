@@ -1,0 +1,10 @@
+G:\BasicProyects\SaveAll\SaveAll\bin\Release\SaveAll.exe
+G:\BasicProyects\SaveAll\SaveAll\bin\Release\SaveAll.pdb
+G:\BasicProyects\SaveAll\SaveAll\bin\Release\SaveAll.xml
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.Main_Form.resources
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.intro.resources
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.Resources.resources
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.vbproj.GenerateResource.Cache
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.exe
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.xml
+G:\BasicProyects\SaveAll\SaveAll\obj\Release\SaveAll.pdb
